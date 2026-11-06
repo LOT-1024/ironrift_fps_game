@@ -1,0 +1,26 @@
+node_modules/
+dist/
+shots/
+/.manus-webdev/preview-identity.json
+
+.asset-src/
+shots/
+lab/
+# Assets restored from assets.lock.json
+/assets/share/favicon.png
+/assets/share/og.png
+
+# Environment variables & local secrets
+.env
+.env.*
+!.env.example
+
+# Logs & debugging
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db

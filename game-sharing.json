@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "title": "Iron Rift FPS",
+  "description": "A fast, style-ranked browser FPS. Hold the container port through 8 waves of wolf- and boar-masked mercenaries, Sentinel robots, robot hounds and Exo heavies, then break The Warden.",
+  "defaultCaptions": {
+    "x": "Survived 8 waves of Iron Rift FPS, a browser shooter against masked mercs, humanoid robots, exosuits and a boss mech. Can you break The Warden?",
+    "facebook": "Iron Rift FPS is a fast, hyper-real first-person wave shooter that runs right in your browser. M4, M870, RPG-X and frags versus masked mercenaries, robot hounds, exosuits and The Warden.",
+    "reddit": "Iron Rift FPS, a browser push-forward shooter with a style meter, augment picks between waves, and a boss fight against The Warden",
+    "discord": "Iron Rift FPS. 8 waves, 1 Warden, S-rank or bust. Beat my score!"
+  },
+  "assets": {
+    "og": "assets/share/og.png",
+    "favicon": "assets/share/favicon.png"
+  }
+}
